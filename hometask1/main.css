@@ -1,0 +1,29 @@
+h1 {
+    background: aquamarine;
+    color: black;
+    font-size: 38px;
+}
+
+h2 {
+    background: antiquewhite;
+    color: sienna;
+    font-size: 30px;
+}
+p{
+    background: aliceblue;
+    color: darkslateblue;
+    font-size: 26px;
+}
+
+ul {
+    background: azure;
+    color: darkslateblue;
+    font-size: 28px;
+}
+li {
+    list-style-type: square;
+}
+
+img {
+    height: 300px;
+    }
