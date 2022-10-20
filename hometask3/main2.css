@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: silver;
+    height: 150px;
+}
+button {
+    background: darkcyan;
+    height: 50px;
+    width: 130px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.icons{
+    margin-right: 150px;
+}
+
+.card {
+    background: darkcyan;
+    height: 500px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    column-gap: 30px;
+}
+.item {
+    background: darkslateblue;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 70px;
+    border-radius: 10px;
+}
+
+.footer {
+    background: silver;
+    height: 150px;
+}

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8631424d-5ac6-4b60-bbd6-d9d6a249ea2c" name="Changes" comment="hometask">
+    <list default="true" id="8631424d-5ac6-4b60-bbd6-d9d6a249ea2c" name="Changes" comment="hometask1">
+      <change afterPath="$PROJECT_DIR$/hometask3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask3/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask3/main2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/html2022/hometask1",
-    "list.type.of.created.stylesheet": "CSS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/html2022/hometask1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\IdeaProjects\html2022\hometask1" />
@@ -56,6 +60,8 @@
       <updated>1665609725458</updated>
       <workItem from="1665609730806" duration="2597000" />
       <workItem from="1665612374670" duration="3625000" />
+      <workItem from="1665654792989" duration="829000" />
+      <workItem from="1666270102477" duration="9789000" />
     </task>
     <task id="LOCAL-00001" summary="hometask">
       <created>1665615427502</created>
@@ -71,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665615686792</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hometask1">
+      <created>1665654932586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665654932586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hometask" />
-    <option name="LAST_COMMIT_MESSAGE" value="hometask" />
+    <MESSAGE value="hometask1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hometask1" />
   </component>
 </project>
