@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8631424d-5ac6-4b60-bbd6-d9d6a249ea2c" name="Changes" comment="hometask1">
-      <change afterPath="$PROJECT_DIR$/hometask3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask3/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask3/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask3/main2.css" afterDir="false" />
+    <list default="true" id="8631424d-5ac6-4b60-bbd6-d9d6a249ea2c" name="Changes" comment="hometask3">
+      <change afterPath="$PROJECT_DIR$/hometask 2/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask 2/main1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,8 @@
       <workItem from="1665609730806" duration="2597000" />
       <workItem from="1665612374670" duration="3625000" />
       <workItem from="1665654792989" duration="829000" />
-      <workItem from="1666270102477" duration="9789000" />
+      <workItem from="1666270102477" duration="10513000" />
+      <workItem from="1666475563003" duration="1673000" />
     </task>
     <task id="LOCAL-00001" summary="hometask">
       <created>1665615427502</created>
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665654932586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hometask3">
+      <created>1666280934320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666280934320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hometask" />
     <MESSAGE value="hometask1" />
-    <option name="LAST_COMMIT_MESSAGE" value="hometask1" />
+    <MESSAGE value="hometask3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hometask3" />
   </component>
 </project>

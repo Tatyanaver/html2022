@@ -1,0 +1,32 @@
+.main {
+    height: 1500px;
+    width: 1500px;
+    text-align: center;
+    font-size: 40px;
+    color: #f8f5f2;
+    margin: auto;
+}
+.head_widjets {
+    background: darkslateblue;
+    line-height: 400px;
+    width: 100%;
+    margin-bottom: 20px;
+    }
+.widjets {
+    display: flex;
+    width: 100%;
+    line-height: 400px;
+    column-gap: 20px;
+    justify-content: center;
+    margin-bottom: 20px;}
+
+.boxes {
+    flex-grow: 1;
+    background: cornflowerblue;
+}
+
+.contacts {
+    line-height: 700px;
+    width: 100%;
+    background: blueviolet;
+}
