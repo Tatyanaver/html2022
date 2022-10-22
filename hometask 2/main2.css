@@ -1,0 +1,39 @@
+.box {
+    width: 100%;
+    height: 1000px;}
+
+.main {
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    }
+
+.card1, .card2, .card3 {
+    background: antiquewhite;
+    font-size: 25px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    padding-top: 50px;
+}
+
+.description {
+    height: 40%;
+    margin-top: 20px;
+}
+
+.btn {
+    width: 50%;
+    height: 80px;
+    font-size: 28px;
+    margin-top: 60px;
+}
+
+
+
+
+
+
