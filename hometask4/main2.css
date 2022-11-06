@@ -1,0 +1,46 @@
+.main {
+    border: 2px solid dimgray;
+    border-radius: 10px;
+    height: 1000px;
+    text-align: center;
+}
+.card1 {
+    height: 25%;
+    background: silver;
+    border: 2px solid dimgray;
+    margin: 10px 5px;
+}
+
+.card2 {
+    height: 48%;
+    border: 2px solid dimgray;
+    margin: 5px 5px 10px 5px;
+}
+.cards_row {
+    display: flex;
+    height: 50%;
+
+    /*flex-grow: 1;*/
+}
+.card3, .card4, .card5 {
+    flex-grow: 1;
+    border: 2px solid dimgray;
+    justify-content: space-between;
+}
+
+.cards {
+    display: flex;
+    height: 70%;
+}
+
+.card2, .card3, .card4, .card5, .card6 {
+    background: silver;
+}
+
+.cards_left {
+    width: 65%;
+}
+.card6 {
+    flex-grow: 1;
+    border: 2px solid dimgray;
+}

@@ -1,0 +1,23 @@
+@media screen and (min-width: 0) and (max-width: 768px) {
+.main {
+    height: 1300px;
+}
+
+.card1 {
+    margin-bottom: 15px;
+}
+.cards {
+    flex-direction: column;
+}
+.card2, .card3 {
+    width: 98%;
+}
+.card2 {
+    height: 60%;
+    margin-bottom: 15px;
+}
+.card3 {
+    height: 40%;
+}
+
+}

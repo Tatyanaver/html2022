@@ -1,0 +1,34 @@
+.main {
+    border: 2px solid dimgray;
+    border-radius: 10px;
+    height: 800px;
+    text-align: center;
+}
+.cards {
+    display: flex;
+    height: 66%;
+    }
+
+.card1, .card2, .card3 {
+    background: cadetblue;
+    border-radius: 10px;
+}
+
+.card1 {
+    height: 30%;
+    margin: 10px 5px;
+}
+
+.card2, .card3 {
+
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.card2 {
+    width: 70%;
+}
+
+.card3 {
+    width: 30%;
+}

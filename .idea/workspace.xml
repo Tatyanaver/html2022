@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8631424d-5ac6-4b60-bbd6-d9d6a249ea2c" name="Changes" comment="hometask2">
-      <change afterPath="$PROJECT_DIR$/hometask 2/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask 2/main2.css" afterDir="false" />
+    <list default="true" id="8631424d-5ac6-4b60-bbd6-d9d6a249ea2c" name="Changes" comment="hometask2.2">
+      <change afterPath="$PROJECT_DIR$/hometask4/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask4/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask4/main1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask4/main2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask4/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask4/media2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask4/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask4/normalize2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,7 +66,9 @@
       <workItem from="1665612374670" duration="3625000" />
       <workItem from="1665654792989" duration="829000" />
       <workItem from="1666270102477" duration="10513000" />
-      <workItem from="1666475563003" duration="4091000" />
+      <workItem from="1666475563003" duration="4313000" />
+      <workItem from="1666883579385" duration="53000" />
+      <workItem from="1666883648412" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="hometask">
       <created>1665615427502</created>
@@ -97,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666477442822</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hometask2.2">
+      <created>1666479752535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666479752535</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hometask2.2">
+      <created>1666479891425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666479891425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +141,7 @@
     <MESSAGE value="hometask1" />
     <MESSAGE value="hometask3" />
     <MESSAGE value="hometask2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hometask2" />
+    <MESSAGE value="hometask2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hometask2.2" />
   </component>
 </project>
